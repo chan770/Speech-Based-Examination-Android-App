@@ -1,4 +1,5 @@
 # Speech-Based-Examination-Android-App
+IEEE: https://ieeexplore.ieee.org/document/9404521 
 An Android application to assist virtually and physically challenged students in taking their exams. The application reads questions to the students, captures their spoken answers, evaluates them, and displays the results, reducing their reliance on volunteers and providing a more accessible exam-taking experience
 The Speech Based Examination Android Application is a technological solution designed to address the challenges faced by virtually and physically challenged students when taking exams. Developed using Java programming language, this Android application aims to reduce the workload and dependency on volunteers by providing a more accessible and automated exam-taking experience.
 
